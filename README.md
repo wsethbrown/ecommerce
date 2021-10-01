@@ -1,3 +1,10 @@
+# Ecommerce Site
+An ecommerce site built to showcase design, state, user authentication and login, and firebase back end.
+
+## Built with the following technologies:
+* React
+* Firebase
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
