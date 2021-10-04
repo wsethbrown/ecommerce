@@ -75,7 +75,7 @@ const Footer = () => {
     return(
         <Container>
             <Left>
-                <Logo>LAMA.</Logo>
+                <Logo>SETH.</Logo>
                 <Desc>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis debitis nisi suscipit consequuntur explicabo magni ad itaque, maxime alias esse?</Desc>
                 <SocialContainer>
                     <SocialIcon color="3B5999">
