@@ -1,7 +1,7 @@
 export const sliderItems = [
     {
         id: 1,
-        img: "https://png2.cleanpng.com/sh/80e8b23e37910caa330d3202974ae1f7/L0KzQYm3VMA4N6FviZH0aYP2gLBuTgN2dpV3feV8LXPvf8Xvif5oNZdmi9pyb36wc7L6lfFtNZV3feV8ZYOwRbLqWMRlPZZoTKUAZUmxR4W4WMU5O2I2TaQ8MEe5RIW9WMA0P191htk=/kisspng-sundress-clothing-fashion-casual-dresses-5ac84d5ec435e9.7418583115230764468037.png",
+        img: "https://i.ibb.co/cXFnLLV/3.png",
         title: "SUMMER SALE",
         description: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
         bg: "f5fafd"

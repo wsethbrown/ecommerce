@@ -1,8 +1,10 @@
 import styled from 'styled-components'
 import {Facebook, Instagram, Pinterest, Twitter, Room, Phone, MailOutline} from '@material-ui/icons'
+import { mobile } from '../responsive'
 
 const Container = styled.div`
     display: flex;
+    ${mobile({flexDirection: "column"})}
 `
 const Desc = styled.p`
     margin: 20px 0px;
@@ -34,6 +36,7 @@ const Left = styled.div`
 const Center = styled.div`
     flex: 1;
     padding: 20px;
+    ${mobile({display: "none"})}
 `
 const Title = styled.h3`
     margin-bottom: 30px;
@@ -53,6 +56,7 @@ const ListItem = styled.li`
 const Right = styled.div`
     flex: 1;
     padding: 20px;
+    ${mobile({backgroundColor: "#fff8f8"})}
 `
 
 const ContactItem = styled.div`
